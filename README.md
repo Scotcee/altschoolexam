@@ -1,5 +1,7 @@
 # altschoolexam
 second semester altschool exam project {counter app}
+deployed using vercel
+here is the link to the deployed site: https://csb-k5x74n-kxe3p5p9h-scot-cees-projects.vercel.app/
 
 Introduction
 This is a counter app that allows you to do the following

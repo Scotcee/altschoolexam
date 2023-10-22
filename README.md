@@ -1,9 +1,11 @@
 # altschoolexam
 second semester altschool exam project {counter app}
-deployed using vercel
+deployed using vercel.
 here is the link to the deployed site: https://csb-k5x74n-kxe3p5p9h-scot-cees-projects.vercel.app/
 
-Introduction
+Introduction .
+
+
 This is a counter app that allows you to do the following
 1 Add a number or increase the number by one
 2 Decrease or reduce it by one 
